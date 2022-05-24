@@ -58,5 +58,5 @@
 |---|---|---|
 |2021|10|MELTY BLOOD: TYPE LUMINA|
 |2021|07|GUILTY GEAR -STRIVE-|
-|2013|8|ガンダムブレイカー|
-|2013|3|DmC Devil May Cry|
+|2013|08|ガンダムブレイカー|
+|2013|03|DmC Devil May Cry|
