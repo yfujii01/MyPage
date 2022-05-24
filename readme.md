@@ -17,22 +17,22 @@
 
 ## 資格
 
-|年|月|名称|
-|---|---|---|
-|2022|05|Salesforce 認定上級アドミニストレーター|
-|2022|05|Salesforce 認定 Tableau CRM and Einstein Discovery コンサルタント|
-|2022|04|Salesforce 認定 上級 Platform Developer|
-|2022|03|Salesforce 認定 Pardot コンサルタント|
-|2022|02|Salesforce 認定 Pardot スペシャリスト|
-|2022|02|Salesforce 認定 Heroku アーキテクトデザイナー|
-|2022|01|Salesforce 認定 Field Service コンサルタント|
-|2021|12|Salesforce 認定 Experience Cloud コンサルタント|
-|2021|11|Salesforce 認定 Platform Developer|
-|2021|10|Salesforce 認定 JavaScript Developer|
-|2021|09|Salesforce 認定 Service Cloud コンサルタント|
-|2021|05|Salesforce 認定 Sales Cloud コンサルタント|
-|2020|10|Salesforce 認定 Platform アプリケーションビルダー|
-|2019|12|Salesforce 認定アドミニストレーター|
+|年|月|名称|補足|
+|---|---|---|---|
+|2022|05|Salesforce 認定上級アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|05|Salesforce 認定 Tableau CRM and Einstein Discovery コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|04|Salesforce 認定 上級 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|03|Salesforce 認定 Pardot コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|02|Salesforce 認定 Pardot スペシャリスト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|02|Salesforce 認定 Heroku アーキテクトデザイナー|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|01|Salesforce 認定 Field Service コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|12|Salesforce 認定 Experience Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|11|Salesforce 認定 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|10|Salesforce 認定 JavaScript Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|09|Salesforce 認定 Service Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|05|Salesforce 認定 Sales Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2020|10|Salesforce 認定 Platform アプリケーションビルダー|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2019|12|Salesforce 認定アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2018|12|AWS Certified Solutions Architect - Associate|
 |2017|12|ITIL Foundation|
 |2013|03|MCA Database|
