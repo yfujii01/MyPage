@@ -18,6 +18,7 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2022|06|Microsoft Azure Fundamentals(AZ900)||
 |2022|05|Salesforce 認定上級アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2022|05|Salesforce 認定 Tableau CRM and Einstein Discovery コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2022|04|Salesforce 認定 上級 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
