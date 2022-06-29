@@ -2,7 +2,7 @@
 
 |アカウント|URL|
 |---|---|
-|Github|[リンク](https://github.com/yfujii01)|
+|GitHub|[リンク](https://github.com/yfujii01)|
 |Trailblazer|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |Qiita|[リンク](https://qiita.com/yfujii01)|
 |sansan|[リンク](https://ap.sansan.com/v/vc/urjsfgxwmfreto6d57mukq7qqe/)|
