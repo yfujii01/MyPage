@@ -64,3 +64,8 @@
 |2021|07|GUILTY GEAR -STRIVE-|
 |2013|08|ガンダムブレイカー|
 |2013|03|DmC Devil May Cry|
+
+
+## その他
+
+https://jp.mercari.com/user/profile/211307953
