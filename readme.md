@@ -48,6 +48,7 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2022|11|MONSTER HUNTER RISE|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1446780/?tab=achievements)|
 |2022|09|GUILTY GEAR -STRIVE-|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1384160/?tab=achievements)|
 |2022|09|Vampire Survivors|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1794680/?tab=achievements)|
 |2022|06|GNOSIA|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1608290/?tab=achievements)|
