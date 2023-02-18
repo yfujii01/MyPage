@@ -20,8 +20,11 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2023|02|Salesforce 認定 アプリケーションアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|02|Salesforce 認定 Sharing and Visibility アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|02|Salesforce 認定 Data アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2022|06|Microsoft Azure Fundamentals(AZ900)|[リンク](https://www.credly.com/badges/1070fb28-bafe-4761-9de4-ba6ce8e45dfd)|
-|2022|05|Salesforce 認定上級アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|05|Salesforce 認定 上級アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2022|05|Salesforce 認定 Tableau CRM and Einstein Discovery コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2022|04|Salesforce 認定 上級 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2022|03|Salesforce 認定 Pardot コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
