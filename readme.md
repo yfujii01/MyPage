@@ -4,6 +4,7 @@
 |---|---|
 |GitHub|[リンク](https://github.com/yfujii01)|
 |Linkedin|[リンク](https://www.linkedin.com/in/yuyafujii/)|
+|facebook|[リンク](https://www.facebook.com/yuyafujii01)|
 |Trailblazer|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |Qiita|[リンク](https://qiita.com/yfujii01)|
 |Zenn|[リンク](https://zenn.dev/yfujii01)|
