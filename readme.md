@@ -3,7 +3,7 @@
 |アカウント|URL|
 |---|---|
 |GitHub|[リンク](https://github.com/yfujii01)|
-|Linkedin|[リンク](https://www.linkedin.com/in/yuyafujii/)|
+|Linkedin|[リンク](https://www.linkedin.com/in/yuyafujii01/)|
 |facebook|[リンク](https://www.facebook.com/yuyafujii01)|
 |Trailblazer|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |Qiita|[リンク](https://qiita.com/yfujii01)|
