@@ -22,6 +22,7 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2023|05|Salesforce 認定 Identity and Access Management アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|04|Salesforce 認定 Development Lifecycle and Deployment アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|03|Salesforce 認定 Marketing Cloud アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|02|Salesforce 認定 アプリケーションアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
