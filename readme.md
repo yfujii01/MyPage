@@ -15,6 +15,7 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2023|05|Umekitaforce【オンライン開催】ChatGPT × Salesforce LT大会！|[リンク](https://umekitaforce.connpass.com/event/281744/)|
 |2021|12|Salesforceハッカソン2021最優秀賞|[リンク](https://developer.salesforce.com/jpblogs/2021/12/salesforce-hackathon-2021-result/)|
 |2007|03|認定特定非営利活動法人ＡＭＤＡの写真データベースシステムの構築|[リンク](https://amda.or.jp/journal/?work_id=536)|
 
@@ -22,6 +23,8 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2023|05|Salesforce 認定システムアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|05|Salesforce 認定 Integration アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|05|Salesforce 認定 Identity and Access Management アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|04|Salesforce 認定 Development Lifecycle and Deployment アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|03|Salesforce 認定 Marketing Cloud アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
