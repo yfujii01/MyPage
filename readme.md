@@ -9,7 +9,6 @@
 |Qiita|[リンク](https://qiita.com/yfujii01)|
 |Zenn|[リンク](https://zenn.dev/yfujii01)|
 |sansan|[リンク](https://ap.sansan.com/v/vc/urjsfgxwmfreto6d57mukq7qqe/)|
-|公開ナレッジF|[リンク](https://yfujii01.com)|
 
 ## イベント
 
