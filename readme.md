@@ -59,6 +59,7 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2024|03|鉄拳8|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1778820/?tab=achievements)|
 |2022|11|MONSTER HUNTER RISE|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1446780/?tab=achievements)|
 |2022|09|GUILTY GEAR -STRIVE-|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1384160/?tab=achievements)|
 |2022|09|Vampire Survivors|[リンク](https://steamcommunity.com/profiles/76561199241957435/stats/1794680/?tab=achievements)|
