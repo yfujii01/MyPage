@@ -22,7 +22,9 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
-|2023|05|Salesforce 認定システムアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|Salesforce 認定 アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|Salesforce 認定 AI アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|05|Salesforce 認定 システムアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|05|Salesforce 認定 Integration アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|05|Salesforce 認定 Identity and Access Management アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|04|Salesforce 認定 Development Lifecycle and Deployment アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
@@ -44,7 +46,7 @@
 |2021|09|Salesforce 認定 Service Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2021|05|Salesforce 認定 Sales Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2020|10|Salesforce 認定 Platform アプリケーションビルダー|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2019|12|Salesforce 認定アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2019|12|Salesforce 認定 アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2018|12|AWS Certified Solutions Architect - Associate|
 |2017|12|ITIL Foundation|
 |2013|03|MCA Database|
