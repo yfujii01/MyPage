@@ -22,6 +22,8 @@
 
 |年|月|名称|補足|
 |---|---|---|---|
+|2024|06|Salesforce 認定 OmniStudio デベロッパー|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|Salesforce 認定 OmniStudio コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|06|Salesforce 認定 アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|06|Salesforce 認定 AI アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2023|05|Salesforce 認定 システムアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
