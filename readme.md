@@ -20,44 +20,45 @@
 
 ## 資格
 
-|年|月|名称|補足|
-|---|---|---|---|
-|2024|06|Salesforce 認定 OmniStudio デベロッパー|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2024|06|Salesforce 認定 OmniStudio コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2024|06|Salesforce 認定 アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2024|06|Salesforce 認定 AI アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|05|Salesforce 認定 システムアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|05|Salesforce 認定 Integration アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|05|Salesforce 認定 Identity and Access Management アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|04|Salesforce 認定 Development Lifecycle and Deployment アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|03|Salesforce 認定 Marketing Cloud アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|02|Salesforce 認定 アプリケーションアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|02|Salesforce 認定 Sharing and Visibility アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2023|02|Salesforce 認定 Data アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|06|Microsoft Azure Fundamentals(AZ900)|[リンク](https://www.credly.com/badges/1070fb28-bafe-4761-9de4-ba6ce8e45dfd)|
-|2022|05|Salesforce 認定 上級アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|05|Salesforce 認定 Tableau CRM and Einstein Discovery コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|04|Salesforce 認定 上級 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|03|Salesforce 認定 Pardot コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|02|Salesforce 認定 Pardot スペシャリスト|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|02|Salesforce 認定 Heroku アーキテクトデザイナー|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2022|01|Salesforce 認定 Field Service コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2021|12|Salesforce 認定 Experience Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2021|11|Salesforce 認定 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2021|10|Salesforce 認定 JavaScript Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2021|09|Salesforce 認定 Service Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2021|05|Salesforce 認定 Sales Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2020|10|Salesforce 認定 Platform アプリケーションビルダー|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2019|12|Salesforce 認定 アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
-|2018|12|AWS Certified Solutions Architect - Associate|
-|2017|12|ITIL Foundation|
-|2013|03|MCA Database|
-|2010|09|LPIC lv1|
-|2009|09|Oracle Master 11g Silver|
-|2009|03|Oracle Master 11g Bronze SQL|
-|2009|03|Oracle Master 11g Bronze DBA|
-|2006|05|基本情報技術者|
-|2005|04|第一種普通運転免許|
+|年|月|日|名称|補足|
+|---|---|---|---|---|
+|2024|10|13|Salesforce 認定 Data Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|17|Salesforce 認定 OmniStudio デベロッパー|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|17|Salesforce 認定 OmniStudio コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|09|Salesforce 認定 アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|06|09|Salesforce 認定 AI アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|05|26|Salesforce 認定 システムアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|05|26|Salesforce 認定 Integration アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|05|04|Salesforce 認定 Identity and Access Management アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|04|07|Salesforce 認定 Development Lifecycle and Deployment アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|03|13|Salesforce 認定 Marketing Cloud アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|02|18|Salesforce 認定 アプリケーションアーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|02|18|Salesforce 認定 Sharing and Visibility アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2023|02|04|Salesforce 認定 Data アーキテクト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|06|23|Microsoft Azure Fundamentals(AZ900)|[リンク](https://www.credly.com/badges/1070fb28-bafe-4761-9de4-ba6ce8e45dfd)|
+|2022|05|21|Salesforce 認定 上級アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|05|14|Salesforce 認定 Tableau CRM and Einstein Discovery コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|04|07|Salesforce 認定 上級 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|03|31|Salesforce 認定 Pardot コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|02|18|Salesforce 認定 Pardot スペシャリスト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|02|31|Salesforce 認定 Heroku アーキテクトデザイナー|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2022|01|17|Salesforce 認定 Field Service コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|12|03|Salesforce 認定 Experience Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|11|02|Salesforce 認定 Platform Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|10|03|Salesforce 認定 JavaScript Developer|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|09|07|Salesforce 認定 Service Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2021|05|21|Salesforce 認定 Sales Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2020|10|16|Salesforce 認定 Platform アプリケーションビルダー|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2019|12|15|Salesforce 認定 アドミニストレーター|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2018|12|11|AWS Certified Solutions Architect - Associate|
+|2017|12|02|ITIL Foundation|
+|2013|03||MCA Database|
+|2010|09||LPIC lv1|
+|2009|09||Oracle Master 11g Silver|
+|2009|03||Oracle Master 11g Bronze SQL|
+|2009|03||Oracle Master 11g Bronze DBA|
+|2006|05||基本情報技術者|
+|2005|04||第一種普通運転免許|
 
 ## Steamトロコン実績
 
