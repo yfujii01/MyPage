@@ -22,7 +22,7 @@
 
 |年|月|日|名称|補足|
 |---|---|---|---|---|
-|2024|11|18|Salesforce 認定 AI スペシャリスト|[リンク](https://trailblazer.me/id/yuyafujii01)|
+|2024|11|18|Salesforce 認定 Agentforce スペシャリスト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|10|13|Salesforce 認定 Data Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|06|17|Salesforce 認定 OmniStudio デベロッパー|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|06|17|Salesforce 認定 OmniStudio コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
