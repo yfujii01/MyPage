@@ -22,6 +22,7 @@
 
 |年|月|日|名称|補足|
 |---|---|---|---|---|
+|2025|09|29|Salesforce 認定 MuleSoft デベロッパー|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2025|06|28|Salesforce 認定 MuleSoft アソシエイト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|11|18|Salesforce 認定 Agentforce スペシャリスト|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2024|10|13|Salesforce 認定 Data Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
