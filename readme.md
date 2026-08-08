@@ -22,6 +22,7 @@
 
 |年|月|日|名称|補足|
 |---|---|---|---|---|
+|2026|08|08|Salesforce 認定 Tableau Desktop 基礎|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2026|01|30|Salesforce 認定 Education Cloud コンサルタント|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2025|12|20|Salesforce 認定セールス基礎|[リンク](https://trailblazer.me/id/yuyafujii01)|
 |2025|09|29|Salesforce 認定 MuleSoft デベロッパー|[リンク](https://trailblazer.me/id/yuyafujii01)|
